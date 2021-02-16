@@ -1,5 +1,5 @@
 ---
-title: "How to Reduce Puppy Biting / Nipping?"
+title: "How to Reduce Puppy Biting?"
 date: 2021-02-03T15:50:24+06:00
 # post thumb
 images:

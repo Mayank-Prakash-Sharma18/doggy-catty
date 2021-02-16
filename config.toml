@@ -152,28 +152,33 @@ bio = "I am a working professional with more than a decade long experience of ha
 
 [[Languages.en.menu.main]]
 name = "Dogs"
-url = "categories/dogs"
+url = "categories/dogs/"
 weight = 1
 
 [[Languages.en.menu.main]]
+name = "Parrots"
+url = "categories/parrots/"
+weight = 3
+
+[[Languages.en.menu.main]]
 name = "About Us"
-url = "about-us"
-weight = 2
+url = "about-us/"
+weight = 16
 
 [[Languages.en.menu.main]]
 name = "Contact"
-URL = "contact"
-weight = 3
+URL = "contact/"
+weight = 18
 
 # footer menu
 [[Languages.en.menu.footer]]
 name = "Privacy Policy"
-URL = "privacy-policy"
+URL = "privacy-policy/"
 weight = 1
 
 [[Languages.en.menu.footer]]
 name = "Terms Conditions"
-URL = "terms-conditions"
+URL = "terms-conditions/"
 weight = 2
 
 
@@ -194,27 +199,32 @@ bio = "मुझे पालतू जानवरों - कुत्तो�
 
 [[Languages.hi.menu.main]]
 name = "कुत्ते"
-url = "categories/dogs"
+url = "categories/dogs/"
 weight = 1
 
 [[Languages.hi.menu.main]]
+name = "तोते"
+url = "categories/parrots/"
+weight = 3
+
+[[Languages.hi.menu.main]]
 name = "हमारे बारे में"
-url = "about-us"
-weight = 2
+url = "about-us/"
+weight = 16
 
 [[Languages.hi.menu.main]]
 name = "संपर्क करें"
-URL = "contact"
-weight = 3
+URL = "contact/"
+weight = 18
 
 
 # footer menu
 [[Languages.hi.menu.footer]]
 name = "प्राइवेसी पॉलिसी"
-URL = "privacy-policy"
+URL = "privacy-policy/"
 weight = 1
 
 [[Languages.hi.menu.footer]]
 name = "टर्म्स कंडीशंस"
-URL = "terms-conditions"
+URL = "terms-conditions/"
 weight = 2
