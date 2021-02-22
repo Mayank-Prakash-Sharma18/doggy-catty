@@ -156,6 +156,11 @@ url = "categories/dogs/"
 weight = 1
 
 [[Languages.en.menu.main]]
+name = "Cats"
+url = "categories/cats/"
+weight = 2
+
+[[Languages.en.menu.main]]
 name = "Parrots"
 url = "categories/parrots/"
 weight = 3
@@ -201,6 +206,11 @@ bio = "मुझे पालतू जानवरों - कुत्तो�
 name = "कुत्ते"
 url = "categories/dogs/"
 weight = 1
+
+[[Languages.hi.menu.main]]
+name = "बिल्लियाँ"
+url = "categories/cats/"
+weight = 2
 
 [[Languages.hi.menu.main]]
 name = "तोते"
