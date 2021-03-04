@@ -166,6 +166,11 @@ url = "categories/parrots/"
 weight = 3
 
 [[Languages.en.menu.main]]
+name = "Fishes"
+url = "categories/fishes/"
+weight = 4
+
+[[Languages.en.menu.main]]
 name = "About Us"
 url = "about-us/"
 weight = 16
@@ -216,6 +221,11 @@ weight = 2
 name = "तोते"
 url = "categories/parrots/"
 weight = 3
+
+[[Languages.hi.menu.main]]
+name = "मछलियां"
+url = "categories/fishes/"
+weight = 4
 
 [[Languages.hi.menu.main]]
 name = "हमारे बारे में"
