@@ -3,7 +3,7 @@ title: "How to train your dog to stop biting his collar and leash?"
 date: 2021-01-31T15:50:24+06:00
 # post thumb
 images:
-  - "images/post/leash-biting.png"
+  - "images/post/leash-biting.jpg"
 #author
 author: "Mayank Sharma"
 # description

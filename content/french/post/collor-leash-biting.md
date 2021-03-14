@@ -3,7 +3,7 @@ title: "अपने कुत्ते को अपने बेल्ट औ�
 date: 2021-01-31T15:50:24+06:00
 # post thumb
 images:
-  - "images/post/leash-biting.png"
+  - "images/post/leash-biting.jpg"
 #author
 author: "Mayank Sharma"
 # description
