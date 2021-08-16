@@ -171,14 +171,28 @@ url = "categories/fishes/"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "About Us"
-url = "about-us/"
-weight = 16
+name = "Rabbits"
+url = "categories/rabbits/"
+weight = 5
 
 [[Languages.en.menu.main]]
 name = "Contact"
-URL = "contact/"
-weight = 18
+url = "#"
+weight = 16
+hasChildren = true
+
+   [[Languages.en.menu.main]]
+   parent = "Contact"
+   name = "Contact Us"
+   URL = "contact/"
+   weight = 17
+
+   [[Languages.en.menu.main]]
+   parent = "Contact"
+   name = "About Us"
+   url = "about-us/"
+   weight = 18
+
 
 # footer menu
 [[Languages.en.menu.footer]]
@@ -232,14 +246,27 @@ url = "categories/fishes/"
 weight = 4
 
 [[Languages.hi.menu.main]]
-name = "हमारे बारे में"
-url = "about-us/"
-weight = 16
+name = "ख़रगोश"
+url = "categories/rabbits/"
+weight = 5
 
 [[Languages.hi.menu.main]]
-name = "संपर्क करें"
-URL = "contact/"
-weight = 18
+name = "संपर्क"
+url = "#"
+weight = 16
+hasChildren = true
+
+   [[Languages.hi.menu.main]]
+   parent = "संपर्क"
+   name = "संपर्क करें"
+   URL = "contact/"
+   weight = 17
+
+   [[Languages.hi.menu.main]]
+   parent = "संपर्क"
+   name = "हमारे बारे में"
+   url = "about-us/"
+   weight = 18
 
 
 # footer menu
@@ -257,3 +284,4 @@ weight = 2
 name = "डिस्क्लेमर"
 URL = "disclaimer/"
 weight = 3
+
