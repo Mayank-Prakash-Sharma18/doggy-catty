@@ -15,7 +15,7 @@ type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 ---
 
-If you are looking to get a pet rabbit, and are exploring the various breeds that you can adopt or buy, then you have come at the right place. 
+If you are looking to get a pet rabbit, and are exploring the various breeds that you can adopt or buy, then you have come to the right place. 
 
 In this article, we will explore the various options that pet owners in India have, when it comes to pet rabbits. 
 
