@@ -3,7 +3,7 @@ title: "पोमेरेनियन कुत्ता पालने के
 date: 2021-06-20T15:40:24+06:00
 # post thumb
 images:
-  - "images/post/pomeranian-dog-pros-cons.jpg"
+  - "images/post/pomeranian.jpg"
 #author
 author: "Mayank Sharma"
 # description
