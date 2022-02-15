@@ -70,7 +70,7 @@ You don’t need a trade licence of any sorts to transport your own pets. Howeve
 For example, you cannot transfer Indian wild parrots (e.g. Indian Ringneck parrot) by this method. Rather, you will be caught and then fined. Only foreign, and exotic pet breeds can be kept as a pet legally, and transported via public transport. 
 </div>
 
-You can book a ticket for II AC, III AC or Sleeper compartments. However, you cannot transport a pet in I AC compartment. 
+You can book a ticket for II AC, III AC or Sleeper compartments. However, you cannot transport a pet in these compartments. Though you can carry a pet along with you in I AC compartment (if other passengers do not object). If other passengers in your compartment are not comfortable with your pets and they register a complaint, then your pets will be transferred to the guard's cabin. 
 
 You can keep your pets with you, or in the Guard’s compartment. There’s a separate place in Guard’s compartment to keep such items. 
 
