@@ -13,7 +13,7 @@ Also, Products on this site are not intended to diagnose, treat, cure or prevent
 
 Information found on this site is meant for educational and informational purposes only, and to motivate you to make your pet's health care and dietary decisions based upon your own research and in partnership with your health care provider. Make your own informed decisions through your own personal responsibility and due diligence.
 
-So, the information is only for general awareness purpose. In case of any medical issue, you must consult an authorized veterinary. 
+The purpose of this blog is to share general information for general awareness purpose, and is written to the author's best knowledge. It is not intended to be used in place of veterinary advice. For health concerns or any medical issue, please seek proper veterinary care.
 
 <h2><strong>Marketing Disclaimer</strong></h2>
 
